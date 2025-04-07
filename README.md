@@ -2,15 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Software Engineer</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tal-shavit" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-tal%20shavit-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:talshavit84@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-talshavit84@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
 ## Summary
 Highly motivated, goal-oriented Software Engineer seeking challenging software development projects. Adaptable self-learner with a proven ability to work under pressure and excel in dynamic environments. Passionate about pushing boundaries in technology and coding.
 
@@ -41,6 +32,14 @@ Afeka Academic College of Engineering
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/tal-shavit" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-tal%20shavit-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:talshavit84@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-talshavit84@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
